@@ -1,5 +1,7 @@
 # badge-collector
 
+🇰🇷 한국어 · 🇬🇧 [English](README.en.md)
+
 GitHub 도전과제(Achievements) 배지를 모으기 위한 놀이터 저장소입니다.
 
 - [`badges.md`](badges.md) — 배지 조건용 커밋을 차곡차곡 쌓는 곳 (현재 128줄째)
